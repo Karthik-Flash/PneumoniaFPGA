@@ -10,7 +10,7 @@
 [![PYNQ](https://img.shields.io/badge/Board-PYNQ--Z2-orange?style=flat-square)](http://www.pynq.io/)
 [![Python](https://img.shields.io/badge/Python-3.10+-green?style=flat-square)](https://python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.x-red?style=flat-square)](https://pytorch.org)
-[![License](https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square)](LICENSE)
+
 
 **Team Flash** | BITS Pilani Hyderabad Campus
 `Karthikeya Reddy` · `2023AAPS1115H` &nbsp;|&nbsp; `Yashwant Rajesh` · `2023AAPS0269H`
